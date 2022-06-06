@@ -1,4 +1,4 @@
 # NLP_HumourDetection
 
-Using non machien learning baseline, 
+Using non machine learning baseline, 
 Logistic regression and LSTM
